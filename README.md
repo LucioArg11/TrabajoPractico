@@ -2,7 +2,7 @@
 
 Para ejecutar el programa se debe acceder desde la consola a la direccion ...\VirtualDreams\Ejercicio5 y ejecutar el comando node index.js para iniciar el servidor, luego de esto se puede acceder a la carpeta Ejercicio6 para abrir el archivo html con un navegador.
 
-Ejercicio 2:
+Ejercicio 2: (abrir readme para poder ver formato xml) 
 1. Un servidor http es un software, cuya función principal es realizar una comunicación con el usuario devolviendo información en función de las peticiones que el mismo realice.
 
 2. Los verbos HTTP son un conjunto de métodos de petición los cuales son utilizados para indicar la acción que se quiere realizar sobre recurso determinado.
